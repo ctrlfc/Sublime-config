@@ -1,0 +1,30 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme2.tmtheme",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_face": "Source Code Pro",
+	"font_size": 15,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"CSS",
+		"FileHeader",
+		"Vintage"
+	],
+	"line_padding_bottom": 1.5,
+	"line_padding_top": 1.5,
+	"material_theme_accent_yellow": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"material_theme_tree_headings": true,
+	"save_on_focus_lost": true,
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true
+}
