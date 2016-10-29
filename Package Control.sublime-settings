@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Alignment",
 		"All Autocomplete",
 		"AutoFileName",
@@ -39,11 +40,12 @@
 		"Material Theme",
 		"Package Control",
 		"Pretty JSON",
-		"Sass",
-		"SCSS",
 		"SideBarEnhancements",
+		"Stylus",
+		"Stylus-Snippets",
 		"SublimeLinter",
 		"SublimeLinter-csslint",
-		"SublimeLinter-jshint"
+		"SublimeLinter-jshint",
+		"Typora Markdown App (OSX)"
 	]
 }
