@@ -1,0 +1,6 @@
+{
+    "compileOnSave": true,  //是否编辑保存
+    "compileDir": true,   //编译到指定目录
+    "compress": false,  //是否压缩
+    "compilePaths": {"/Applications/XAMPP/xamppfiles/htdocs/app/web/day65-70_respond_project_h5_c3_bt_styl/public/styl":"/Applications/XAMPP/xamppfiles/htdocs/app/web/day65-70_respond_project_h5_c3_bt_styl/public/css"}  //输出路径
+}
